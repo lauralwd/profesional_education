@@ -1,7 +1,7 @@
 # 🌱 Data Science and Bioinformatics curriculum for UU PhDs and professionals
 
 Welcome on my page about data science and bioinformatics education for PhDs and staff! 
-Click [here](https://www.lauradijkhuizen.com) to go back to my main page
+Click [here](https://lauralwd.github.io/) to go back to my main page
 
 I'm Laura, a plant-biologist-turned-bioinformatician with a passion for teaching. 
 Below, you'll find a selection of courses I offer, each designed to be hands-on, engaging, and directly applicable to your research. 
@@ -14,12 +14,12 @@ This infographic provides a structured overview of all courses currently taught 
 
 ## 📚 Courses I Teach
 
-- **[Introduction to R for Life Sciences](courses/intro-r/)** – Dive into the world of R programming and unlock the power of data analysis and visualisation.
-- **[Publication Quality Figures with ggplot2 in R](courses/ggplot2-course/)** – Transform your data into stunning visual stories using ggplot2.
-- **[Differential Expression Analysis](courses/de-analysis/)** – Master the art of RNA-seq data analysis and uncover the secrets within your datasets.
-- **[Introduction to Python](courses/intro-python/)** – Embark on a journey into Python programming, tailored for life sciences applications.
-- **[Linux & HPC for Research](courses/linux-hpc/)** – Get comfortable with the Linux command line and harness the power of high-performance computing.
-- **[Machine Learning for Research](courses/ml-course/)** – Step into the future with machine learning techniques applicable to your research.
+- **[Introduction to R for Life Sciences](/courses/intro-r.md)** – Dive into the world of R programming and unlock the power of data analysis and visualisation.
+- **[Publication Quality Figures with ggplot2 in R](/courses/ggplot2-course/)** – Transform your data into stunning visual stories using ggplot2.
+- **[Differential Expression Analysis](/courses/de-analysis.html)** – Master the art of RNA-seq data analysis and uncover the secrets within your datasets.
+- **[Introduction to Python](/courses/intro-python)** – Embark on a journey into Python programming, tailored for life sciences applications.
+- **[Linux & HPC for Research](/courses/linux-hpc)** – Get comfortable with the Linux command line and harness the power of high-performance computing.
+- **[Machine Learning for Research](/courses/ml-course)** – Step into the future with machine learning techniques applicable to your research.
 
 ## 🎓 Teaching Philosophy
 
@@ -29,4 +29,4 @@ This infographic provides a structured overview of all courses currently taught 
 
 If you have questions or want to discuss which course suits your needs, feel free to reach out!
 
-📩 **Contact:** [l.w.dijkhuizen@uu.nl](mailto:l.w.dijkhuizen@uu.nl) | 🌐 **Website:** [lauradijkhuizen.com](https://www.lauradijkhuizen.com)
+📩 **Contact:** [l.w.dijkhuizen@uu.nl](mailto:l.w.dijkhuizen@uu.nl) | 🌐 **Website:** [lauradijkhuizen.com](https://lauralwd.github.io/)
