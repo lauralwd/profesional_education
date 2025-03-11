@@ -1,6 +1,7 @@
 # 🌱 Data Science and Bioinformatics curriculum for UU PhDs and professionals
 
-Welcome on my page about data science and bioinformatics education for PhDs and staff!
+Welcome on my page about data science and bioinformatics education for PhDs and staff! 
+Click [here](lauradijkhuizen.com) to go back to my main page
 
 I'm Laura, a plant-biologist-turned-bioinformatician with a passion for teaching. 
 Below, you'll find a selection of courses I offer, each designed to be hands-on, engaging, and directly applicable to your research. 
@@ -28,4 +29,4 @@ This infographic provides a structured overview of all courses currently taught 
 
 If you have questions or want to discuss which course suits your needs, feel free to reach out!
 
-📩 **Contact:** [mailto:l.w.dijkhuizen@uu.nl](l.w.dijkhuizen@uu.nl) | 🌐 **Website:** [lauradijkhuizen.com](www.lauradijkhuizen.com)
+📩 **Contact:** [l.w.dijkhuizen@uu.nl](mailto:l.w.dijkhuizen@uu.nl) | 🌐 **Website:** [lauradijkhuizen.com](www.lauradijkhuizen.com)
