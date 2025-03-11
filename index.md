@@ -14,9 +14,9 @@ This infographic provides a structured overview of all courses currently taught 
 
 ## 📚 Courses I Teach
 
-- **[Introduction to R for Life Sciences](/professional_education/courses/intro-r.md)** – Dive into the world of R programming and unlock the power of data analysis and visualisation.
-- **[Publication Quality Figures with ggplot2 in R](/professional_education/courses/ggplot2-course/)** – Transform your data into stunning visual stories using ggplot2.
-- **[Differential Expression Analysis](/professional_education/courses/de-analysis.html)** – Master the art of RNA-seq data analysis and uncover the secrets within your datasets.
+- **[Introduction to R for Life Sciences](/professional_education/courses/intro-r)** – Dive into the world of R programming and unlock the power of data analysis and visualisation.
+- **[Publication Quality Figures with ggplot2 in R](/professional_education/courses/ggplot2-course)** – Transform your data into stunning visual stories using ggplot2.
+- **[Differential Expression Analysis](/professional_education/courses/de-analysis)** – Master the art of RNA-seq data analysis and uncover the secrets within your datasets.
 - **[Introduction to Python](/professional_education/courses/intro-python)** – Embark on a journey into Python programming, tailored for life sciences applications.
 - **[Linux & HPC for Research](/professional_education/courses/linux-hpc)** – Get comfortable with the Linux command line and harness the power of high-performance computing.
 - **[Machine Learning for Research](/professional_education/courses/ml-course)** – Step into the future with machine learning techniques applicable to your research.
