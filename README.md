@@ -1,2 +1,1 @@
-# profesional_education
-Education for profesionals curriculum on data science and bioinformatics
+# Education for professionals curriculum on data science and bioinformatics
