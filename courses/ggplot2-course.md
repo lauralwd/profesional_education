@@ -2,11 +2,11 @@
 
 ## 📝 Course Overview
 
-ggplot2 is one of the most powerful and flexible tools for creating high-quality, publication-ready data visualisations in R. This course provides a **hands-on introduction** to ggplot2, focusing on designing clear, reproducible, and insightful plots for life sciences research.
+ggplot2 is a powerful and flexible tool for creating high-quality, publication-ready data visualisations in R. This course provides a **structured, hands-on introduction** to ggplot2, focusing on designing **clear, reproducible, and insightful plots** for life sciences research.
 
-The course is structured as **a two-week intensive programme**, alternating between live sessions and self-study. Participants will learn **how to construct various types of visualisations**, apply aesthetic mappings effectively, and enhance their plots with facets, themes, and annotations.
+The course is structured as **a two-week intensive programme**, combining live sessions, exercises, and independent work. Participants will learn **to construct various types of visualisations**, apply aesthetic mappings effectively, and enhance their plots with facets, themes, and annotations.
 
-🚀 **This course is part of the GS-LS R learning line.** Completing it will strengthen your R visualisation skills and prepare you for more advanced R-based analysis courses such as [Differential Expression Analysis](courses/de_analysis_course.md).
+🚀 **This course is part of the GS-LS R learning line.** Completing it will strengthen your **data visualisation skills** and prepare you for advanced R-based analysis courses such as [Differential Expression Analysis](courses/de-analysis/).
 
 ## 🎯 Learning Objectives
 
@@ -20,28 +20,35 @@ The course is structured as **a two-week intensive programme**, alternating betw
 
 | **Session** | **Topic** |
 |------------|--------------------------------|
-| **1**  | Introduction to ggplot2 and the Grammar of Graphics |
-| **2**  | Aesthetic Mappings and Basic Plot Types |
-| **3**  | Faceting, Themes, and Annotations |
-| **4**  | Advanced Customisation and Data Presentation |
-| **5**  | Hands-on Project and Review |
-| **6**  | Final Project Presentation (Online) |
+| **1**  | Welcome, Grammar of Graphics, and Data Reformatting |
+| **2**  | Geometries, Statistical Transformations, and Faceting |
+| **3**  | Themes, Colour Scales, Guides, and Annotation |
+| **4**  | Advanced Customisation: Patchwork, Patterns, and Plugins |
+| **5**  | Final Project Presentations and Peer Feedback |
 
-The course takes place over **6 sessions**, spread over **two weeks**. Sessions contain **lectures, coding challenges, and interactive exercises**. Participants are encouraged to bring their own data for custom visualisations.
-
+The course is **interactive and hands-on**, with structured exercises, check-ins, and opportunities to apply ggplot2 techniques to real datasets. 
+The course starts with lots of exercises, and throughout the course days, slowly transitions in a workshop where there is more time to work on your own figures.
+A final project allows participants to create a meaningful visualisation, incorporating the skills learned throughout the course.
 ## 🎓 Final Assessment
 
-To finalise this course, participants must complete a **final assignment**. You can choose one of two options:
+The final assessment consists of a **practical project**, where participants will apply their ggplot2 skills to a dataset of their choice.
 
-1. **Exam-Style Assignment:** A structured set of exercises covering key topics. An answer model will be provided for self-assessment.
-2. **Personal Data Project:** Use your newly acquired ggplot2 skills to create a high-quality figure based on your own research data.
+**Assessment Options:**
+1. **Personal Data Project** – Participants create **a final figure** based on their own research data and submit an annotated R script explaining their choices.
+2. **Provided Dataset Analysis** – If participants do not have their own data, they can choose from a set of provided datasets and create a meaningful visualisation.
 
-The final assignment must be completed to receive a course certificate.
+**Final Presentation:**
+- Each participant will present their final figure in a **short presentation (5–10 minutes)** in the last session.
+- The focus will be on **design choices, clarity, and storytelling**.
+- Feedback will be provided by instructors and peers.
+
+Attendence of 80% or higher and completing this project are required to receive a **certificate of completion**.
 
 ## 🧰 Prerequisites
 
 - **Basic knowledge of R** is required (e.g., completion of [Introduction to R](courses/intro_r.md)).
-- Experience with data manipulation (tidyverse/dplyr) is helpful but not mandatory.
+- Experience with data manipulation is important but we spend time on this in the course as well.
+- Knowledge of your own data, if you bring any, is important for making insightful plots.
 
 ## 📚 Instructional Method
 
@@ -58,11 +65,12 @@ The final assignment must be completed to receive a course certificate.
 
 ## ⭐ What Participants Say
 
-✅ **Transforms how you visualise data!** – Many participants find ggplot2 **game-changing** for creating effective, publication-ready figures.  
-✅ **Hands-on & Practical** – This course is designed to be **interactive**, with plenty of coding exercises and real-world examples.  
-✅ **Customised Learning** – You can bring your own dataset and receive guidance on making **the best visualisation for your research**.  
+✅ **Hands-on learning with real-world applications** – Participants appreciate the **interactive exercises and focus on real datasets**, making the course directly relevant to their research.  
+✅ **Step-by-step guidance** – The combination of **live coding, structured exercises, and self-practice** helps participants develop confidence.  
+✅ **Well-paced and engaging** – The course provides a **good balance of structured teaching and independent problem-solving**.  
+✅ **Supportive learning environment** – Many found the **instructor’s feedback and discussions** valuable in improving their plots.  
 
-💡 *Heads-up: This course builds on R fundamentals!* If you're new to R, consider taking the [Introduction to R](courses/intro_r.md) course first.
+⚡ **Challenges with complexity** – Some participants noted that advanced **customisation options** (themes, facets, and scales) were challenging. To help, we provide **extra practice exercises and templates** to ease the learning process.
 
 ## 🚀 How to Enrol
 
