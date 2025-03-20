@@ -28,15 +28,15 @@
      inkscape:document-units="mm"
      showguides="false"
      inkscape:lockguides="false"
-     inkscape:zoom="0.69421998"
-     inkscape:cx="526.49018"
-     inkscape:cy="530.81158"
+     inkscape:zoom="0.75468928"
+     inkscape:cx="286.87303"
+     inkscape:cy="530.68198"
      inkscape:window-width="1800"
      inkscape:window-height="1126"
      inkscape:window-x="0"
      inkscape:window-y="43"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g40">
+     inkscape:current-layer="g41">
     <sodipodi:guide
        position="105.01585,411.68675"
        orientation="-1,0"
@@ -475,7 +475,8 @@
      id="layer8"
      inkscape:label="legend"
      style="display:inline"
-     transform="translate(0.01584737,15.01459)">
+     transform="translate(0.01584737,15.01459)"
+     sodipodi:insensitive="true">
     <g
        id="g51"
        style="display:inline;opacity:0.909"
@@ -553,12 +554,12 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect78);display:inline;opacity:0.909;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:4.89071"><tspan
            x="227.89648"
            y="1025.486"
-           id="tspan4">Bring your own data &#10;</tspan><tspan
+           id="tspan1">Bring your own data &#10;</tspan><tspan
            x="227.89648"
            y="1048.8194"
-           id="tspan6"><tspan
+           id="tspan3"><tspan
    style="opacity:0.455056"
-   id="tspan5">possible </tspan>/ recommended</tspan></text>
+   id="tspan2">possible </tspan>/ recommended</tspan></text>
       <g
          id="g83"
          transform="matrix(0.42042985,0,0,0.34212169,-4.9772378,160.47491)"
@@ -629,7 +630,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect83);display:inline;opacity:0.909;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:4.89071"><tspan
            x="227.89648"
            y="1025.486"
-           id="tspan7">e-learning</tspan></text>
+           id="tspan4">e-learning</tspan></text>
     </g>
     <g
        id="g76"
@@ -641,10 +642,10 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect112);display:inline;opacity:0.909;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:4.89071"><tspan
            x="227.89648"
            y="1025.486"
-           id="tspan8">HPC access </tspan><tspan
+           id="tspan5">HPC access </tspan><tspan
            x="227.89648"
            y="1048.8194"
-           id="tspan9">required</tspan></text>
+           id="tspan6">required</tspan></text>
       <g
          id="g4"
          transform="matrix(0.78798002,0,0,0.78798002,30.935555,55.612179)">
@@ -673,7 +674,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.33333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect120);display:inline;opacity:1;fill:#ffffff;fill-opacity:1"><tspan
              x="336.04492"
              y="1030.1282"
-             id="tspan10">&gt; ssh HPC</tspan></text>
+             id="tspan7">&gt; ssh HPC</tspan></text>
         <ellipse
            style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:0.144642"
            id="path120"
@@ -707,10 +708,10 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect77);display:inline;opacity:0.909;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:4.89071"><tspan
            x="228.7207"
            y="941.56607"
-           id="tspan11">collaboration with or </tspan><tspan
+           id="tspan8">collaboration with or </tspan><tspan
            x="228.7207"
            y="964.89944"
-           id="tspan12">offered by RDMs / library</tspan></text>
+           id="tspan9">offered by RDMs / library</tspan></text>
       <g
          id="g20"
          transform="matrix(0.69907355,0,0,0.64062094,-32.787408,84.042892)">
@@ -826,7 +827,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect83-2);display:inline;opacity:0.909;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:4.89071"><tspan
          x="227.89648"
          y="1025.486"
-         id="tspan13">basic</tspan></text>
+         id="tspan10">basic</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-22.885601,-36.418624)"
@@ -834,7 +835,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect108);display:inline;opacity:0.909;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:4.89071"><tspan
          x="227.89648"
          y="1025.486"
-         id="tspan14">intermediate</tspan></text>
+         id="tspan11">intermediate</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-22.885601,-25.182748)"
@@ -842,14 +843,15 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect109);display:inline;opacity:0.909;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:4.89071"><tspan
          x="227.89648"
          y="1025.486"
-         id="tspan15">advanced</tspan></text>
+         id="tspan12">advanced</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="title"
      transform="translate(0.01584737,15.01459)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-23.689414,1.9495926)"
@@ -859,21 +861,22 @@
        y="0"><tspan
          x="229.11599"
          y="-44.702508"
-         id="tspan18"><tspan
+         id="tspan14"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan16">Data science and bioinformatics courses&#10;</tspan></tspan><tspan
+           id="tspan13">Data science and bioinformatics courses&#10;</tspan></tspan><tspan
          x="370.03648"
          y="-11.369134"
-         id="tspan23"><tspan
+         id="tspan17"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan19"> for PhDs and staff</tspan></tspan></text>
+           id="tspan15"> for PhDs and staff</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="quadrants"
      transform="matrix(0.99751861,0,0,0.98668885,0.01714337,-28.914751)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#2c5aa0;stroke-width:1.26699"
        id="rect3"
@@ -916,7 +919,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline;opacity:1"
-     transform="translate(0.01584737,-28.914751)">
+     transform="translate(0.01584737,-28.914751)"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer3"
@@ -933,7 +937,7 @@
          y="0"><tspan
            x="7.2853697"
            y="52.172099"
-           id="tspan24">R &amp; statistics</tspan></text>
+           id="tspan18">R &amp; statistics</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.18708867,-0.18708867,0.18708867,0.18708867,-8.7853947,47.918457)"
@@ -943,7 +947,7 @@
          y="0"><tspan
            x="93.724073"
            y="52.172099"
-           id="tspan25">Python</tspan></text>
+           id="tspan19">Python</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.18708867,0.18708867,-0.18708867,0.18708867,18.947416,158.04427)"
@@ -953,7 +957,7 @@
          y="0"><tspan
            x="15.492392"
            y="52.172099"
-           id="tspan26">Linux &amp; HPC</tspan></text>
+           id="tspan20">Linux &amp; HPC</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.18708867,-0.18708867,0.18708867,0.18708867,156.04953,192.92749)"
@@ -963,10 +967,10 @@
          y="0"><tspan
            x="0"
            y="52.172099"
-           id="tspan27">General data &amp; </tspan><tspan
+           id="tspan21">General data &amp; </tspan><tspan
            x="0"
            y="88.838725"
-           id="tspan28">coding skills</tspan></text>
+           id="tspan22">coding skills</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1061,7 +1065,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect37);display:inline;fill:#0b1728;fill-opacity:1"><tspan
            x="430.64258"
            y="431.98364"
-           id="tspan29">basic</tspan></text>
+           id="tspan23">basic</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,25.72164,42.619579)"
@@ -1069,7 +1073,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect38);display:inline;fill:#0b1728;fill-opacity:1"><tspan
            x="430.64258"
            y="431.98364"
-           id="tspan30">intermediate</tspan></text>
+           id="tspan24">intermediate</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,68.406354,42.619579)"
@@ -1077,7 +1081,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect39);display:inline;fill:#0b1728;fill-opacity:1"><tspan
            x="430.64258"
            y="431.98364"
-           id="tspan31">advanced</tspan></text>
+           id="tspan25">advanced</tspan></text>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
          d="m 127.94545,155.59858 9.04073,7.3e-4"
@@ -1099,12 +1103,13 @@
      id="layer6"
      inkscape:label="courses"
      style="display:inline;opacity:1"
-     transform="translate(0.01584737,15.01459)">
+     transform="translate(0.01584737,15.01459)"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="g41"
        inkscape:label="potential"
-       style="display:inline">
+       style="display:inline;opacity:1;mix-blend-mode:normal">
       <g
          id="g66"
          style="display:inline;opacity:0.909"
@@ -1134,10 +1139,10 @@
            style="font-size:16px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2-8-58);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="332.20504"
-             id="tspan32">workflow </tspan><tspan
+             id="tspan26">workflow </tspan><tspan
              x="284.33398"
              y="352.20504"
-             id="tspan33">managers</tspan></text>
+             id="tspan27">managers</tspan></text>
       </g>
       <g
          id="g59"
@@ -1168,13 +1173,13 @@
            style="font-size:16px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2-8-2);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="332.20504"
-             id="tspan34">Data analysis      &#10;</tspan><tspan
+             id="tspan28">Data analysis      &#10;</tspan><tspan
              x="284.33398"
              y="352.20504"
-             id="tspan35">       with&#10;</tspan><tspan
+             id="tspan29">       with&#10;</tspan><tspan
              x="284.33398"
              y="372.20504"
-             id="tspan36">    python&#10;</tspan></text>
+             id="tspan30">    python&#10;</tspan></text>
       </g>
       <g
          id="g62"
@@ -1205,13 +1210,13 @@
            style="font-size:16px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2-8-03);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="332.20504"
-             id="tspan37">Using LLMS&#10;</tspan><tspan
+             id="tspan31">Using LLMS&#10;</tspan><tspan
              x="284.33398"
              y="352.20504"
-             id="tspan38"> for &#10;</tspan><tspan
+             id="tspan32"> for &#10;</tspan><tspan
              x="284.33398"
              y="372.20504"
-             id="tspan39"> research</tspan></text>
+             id="tspan33"> research</tspan></text>
       </g>
       <g
          id="g60"
@@ -1242,7 +1247,7 @@
            style="font-size:16px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2-8-02);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="332.20504"
-             id="tspan40">Git(Hub)&#10;</tspan></text>
+             id="tspan34">Git(Hub)&#10;</tspan></text>
       </g>
       <g
          id="g61"
@@ -1273,13 +1278,13 @@
            style="font-size:16px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2-8-0);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="332.20504"
-             id="tspan41">Improve&#10;</tspan><tspan
+             id="tspan35">Improve&#10;</tspan><tspan
              x="284.33398"
              y="352.20504"
-             id="tspan42">your &#10;</tspan><tspan
+             id="tspan36">your &#10;</tspan><tspan
              x="284.33398"
              y="372.20504"
-             id="tspan43">code</tspan></text>
+             id="tspan37">code</tspan></text>
       </g>
       <g
          id="g20-6"
@@ -1390,13 +1395,13 @@
            style="font-size:16px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2-8-7);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="332.20504"
-             id="tspan44">Survey </tspan><tspan
+             id="tspan38">Survey </tspan><tspan
              x="284.33398"
              y="352.20504"
-             id="tspan45">analysis </tspan><tspan
+             id="tspan39">analysis </tspan><tspan
              x="284.33398"
              y="372.20504"
-             id="tspan49">in R</tspan></text>
+             id="tspan40">in R</tspan></text>
       </g>
       <g
          id="g56"
@@ -1427,10 +1432,10 @@
            style="font-size:16px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect54);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="332.20504"
-             id="tspan53">scRNAseq &#10;</tspan><tspan
+             id="tspan41">scRNAseq &#10;</tspan><tspan
              x="284.33398"
              y="352.20504"
-             id="tspan54">  analysis</tspan></text>
+             id="tspan42">  analysis</tspan></text>
       </g>
       <g
          id="g67"
@@ -1461,10 +1466,10 @@
            style="font-size:16px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect67);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="332.20504"
-             id="tspan55">interactive  &#10;</tspan><tspan
+             id="tspan43">interactive  &#10;</tspan><tspan
              x="284.33398"
              y="352.20504"
-             id="tspan56">  dataviz&#10;</tspan></text>
+             id="tspan44">  dataviz&#10;</tspan></text>
       </g>
       <g
          id="g72"
@@ -1495,13 +1500,13 @@
            style="font-size:16px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect72);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="332.20504"
-             id="tspan57">Using &#10;</tspan><tspan
+             id="tspan45">Using &#10;</tspan><tspan
              x="284.33398"
              y="352.20504"
-             id="tspan58">the &#10;</tspan><tspan
+             id="tspan46">the &#10;</tspan><tspan
              x="284.33398"
              y="372.20504"
-             id="tspan59">HPC</tspan></text>
+             id="tspan49">HPC</tspan></text>
       </g>
       <g
          id="g83-0-7-9"
@@ -1797,7 +1802,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.33333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect120-7-7);display:inline;opacity:1;fill:#ffffff;fill-opacity:1"><tspan
              x="336.04492"
              y="1030.1282"
-             id="tspan60">&gt; ssh HPC</tspan></text>
+             id="tspan52">&gt; ssh HPC</tspan></text>
         <ellipse
            style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:0.144642"
            id="path120-9-2"
@@ -1905,7 +1910,7 @@
        inkscape:groupmode="layer"
        id="layer7"
        inkscape:label="Existing"
-       style="display:inline">
+       style="display:inline;mix-blend-mode:normal">
       <g
          id="g54"
          transform="translate(75.00236,1.6877633)">
@@ -1923,10 +1928,10 @@
            style="font-size:16px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="332.20504"
-             id="tspan61">Publication </tspan><tspan
+             id="tspan53">Publication </tspan><tspan
              x="284.33398"
              y="352.20504"
-             id="tspan62">qual. figures</tspan></text>
+             id="tspan54">qual. figures</tspan></text>
       </g>
       <g
          id="g83-0"
@@ -1998,10 +2003,10 @@
            style="font-size:18.6667px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2-8);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="334.60708"
-             id="tspan63">Differential </tspan><tspan
+             id="tspan55">Differential </tspan><tspan
              x="284.33398"
              y="357.94046"
-             id="tspan64">expression</tspan></text>
+             id="tspan56">expression</tspan></text>
       </g>
       <g
          id="g68"
@@ -2020,14 +2025,14 @@
            style="font-size:18.6667px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2-8-9);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="334.60708"
-             id="tspan66"><tspan
+             id="tspan58"><tspan
                style="font-weight:bold"
-               id="tspan65">Intro to </tspan></tspan><tspan
+               id="tspan57">Intro to </tspan></tspan><tspan
              x="284.33398"
              y="357.94046"
-             id="tspan68"><tspan
+             id="tspan60"><tspan
                style="font-weight:bold"
-               id="tspan67">Python</tspan></tspan></text>
+               id="tspan59">Python</tspan></tspan></text>
       </g>
       <g
          id="g63-9"
@@ -2047,13 +2052,13 @@
            style="font-size:16px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2-8-50-2);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="332.20504"
-             id="tspan69">Data </tspan><tspan
+             id="tspan61">Data </tspan><tspan
              x="284.33398"
              y="352.20504"
-             id="tspan70">visualisation </tspan><tspan
+             id="tspan62">visualisation </tspan><tspan
              x="284.33398"
              y="372.20504"
-             id="tspan71">principles</tspan></text>
+             id="tspan63">principles</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -2077,9 +2082,9 @@
            style="font-size:18.6667px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect52);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="334.60708"
-             id="tspan74"><tspan
+             id="tspan65"><tspan
                style="font-weight:bold"
-               id="tspan73">Intro to R</tspan></tspan></text>
+               id="tspan64">Intro to R</tspan></tspan></text>
       </g>
       <g
          id="g64">
@@ -2100,9 +2105,9 @@
              style="font-size:18.6667px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2-8-54);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
                x="284.33398"
                y="334.60708"
-               id="tspan76"><tspan
+               id="tspan67"><tspan
                  style="font-weight:bold"
-                 id="tspan75">Linux &amp; HPC</tspan></tspan></text>
+                 id="tspan66">Linux &amp; HPC</tspan></tspan></text>
         </g>
       </g>
       <g
@@ -2137,10 +2142,10 @@
            style="font-size:18.6667px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2-8-2-8);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="334.60708"
-             id="tspan77">Machine </tspan><tspan
+             id="tspan68">Machine </tspan><tspan
              x="284.33398"
              y="357.94046"
-             id="tspan78">learning </tspan></text>
+             id="tspan69">learning </tspan></text>
       </g>
       <g
          id="g83-0-7-9-1"
@@ -2378,10 +2383,10 @@
            style="font-size:18.6667px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2-8-6);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="334.60708"
-             id="tspan79">HPC&#10;</tspan><tspan
+             id="tspan70">HPC&#10;</tspan><tspan
              x="284.33398"
              y="357.94046"
-             id="tspan80">e-learning</tspan></text>
+             id="tspan71">e-learning</tspan></text>
       </g>
       <g
          id="g4-9"
@@ -2412,7 +2417,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.33333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect120-7);display:inline;opacity:1;fill:#ffffff;fill-opacity:1"><tspan
              x="336.04492"
              y="1030.1282"
-             id="tspan81">&gt; ssh HPC</tspan></text>
+             id="tspan72">&gt; ssh HPC</tspan></text>
         <ellipse
            style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:0.144642"
            id="path120-9"
@@ -2441,12 +2446,6 @@
          id="path76"
          aria-label="e"
          sodipodi:nodetypes="ccscscsccccscccssccc" />
-      <path
-         style="font-weight:bold;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0.01px;word-spacing:0px;white-space:pre;fill:#1a1a1a;stroke-width:2.19715"
-         d="m 165.2308,121.63565 -0.83824,1.84199 c -0.4238,-1.07665 -0.44391,-0.60141 -1.29021,-0.55052 -0.85586,0.0515 -1.49188,-0.28458 -1.90353,-0.85375 -0.325,-0.45597 -0.4875,-1.03143 -0.4875,-1.72639 0,-0.83017 0.21357,-1.47952 0.6407,-1.94807 0.42714,-0.47169 0.96725,-0.70754 1.62033,-0.70754 0.73355,0 1.31236,0.24685 1.7364,0.74055 0.42404,0.49056 0.62677,1.24369 0.6082,2.2594 h -3.26851 c 0.009,0.39307 0.1145,0.69967 0.31571,0.91979 0.20118,0.21698 0.45189,0.32547 0.75213,0.32547 0.66489,-0.006 0.65548,-0.0195 0.37512,-0.6844 z m -1.20918,-1.75562 c -0.009,-0.38364 -0.10677,-0.67452 -0.2925,-0.87263 -0.18571,-0.20125 -0.41166,-0.30187 -0.67784,-0.30187 -0.28476,0 -0.51999,0.10534 -0.7057,0.31603 -0.18571,0.21068 -0.27702,0.49684 -0.27392,0.85847 z"
-         id="path77"
-         aria-label="e"
-         sodipodi:nodetypes="ccscscsccccscccssccc" />
       <g
          id="g63"
          transform="translate(30.694708,0.03757303)"
@@ -2465,8 +2464,14 @@
            style="font-size:18.6667px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.01px;word-spacing:0px;white-space:pre;shape-inside:url(#rect52-2-8-50);display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:4.89071"><tspan
              x="284.33398"
              y="334.60708"
-             id="tspan82">Intro RDM</tspan></text>
+             id="tspan73">Intro RDM</tspan></text>
       </g>
+      <path
+         style="font-weight:bold;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0.01px;word-spacing:0px;white-space:pre;fill:#1a1a1a;stroke-width:2.19715"
+         d="m 165.2308,121.63565 -0.83824,1.84199 c -0.4238,-1.07665 -0.44391,-0.60141 -1.29021,-0.55052 -0.85586,0.0515 -1.49188,-0.28458 -1.90353,-0.85375 -0.325,-0.45597 -0.4875,-1.03143 -0.4875,-1.72639 0,-0.83017 0.21357,-1.47952 0.6407,-1.94807 0.42714,-0.47169 0.96725,-0.70754 1.62033,-0.70754 0.73355,0 1.31236,0.24685 1.7364,0.74055 0.42404,0.49056 0.62677,1.24369 0.6082,2.2594 h -3.26851 c 0.009,0.39307 0.1145,0.69967 0.31571,0.91979 0.20118,0.21698 0.45189,0.32547 0.75213,0.32547 0.66489,-0.006 0.65548,-0.0195 0.37512,-0.6844 z m -1.20918,-1.75562 c -0.009,-0.38364 -0.10677,-0.67452 -0.2925,-0.87263 -0.18571,-0.20125 -0.41166,-0.30187 -0.67784,-0.30187 -0.28476,0 -0.51999,0.10534 -0.7057,0.31603 -0.18571,0.21068 -0.27702,0.49684 -0.27392,0.85847 z"
+         id="path77"
+         aria-label="e"
+         sodipodi:nodetypes="ccscscsccccscccssccc" />
     </g>
   </g>
 </svg>
